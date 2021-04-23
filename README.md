@@ -16,8 +16,8 @@ See below the accuracy scores and the precision and recall scores of all six mac
 4. Combination: 	0.51	              0.01, 1.00	                          0.69, 0.54
 5. Random Forest:	0.995	              0.58, 1.00	                          0.32, 1.00
 6. Easy Ensemble:	0.93	              0.07, 1.00	                          0.92, 0.93
-7. 
-8. ![image](https://user-images.githubusercontent.com/75815560/115932474-a48e6100-a452-11eb-91c9-be3244df90d6.png)
+
+![image](https://user-images.githubusercontent.com/75815560/115932474-a48e6100-a452-11eb-91c9-be3244df90d6.png)
 
 
 
