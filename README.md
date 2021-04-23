@@ -9,7 +9,7 @@ The purpose of this analysis is to develop machine learning models to predict cr
 
 See below the accuracy scores and the precision and recall scores of all six machine learning models (15 pt)
 
-**  Model Name 	          Accuracy 	    Precision (high risk, low risk)	      Recall (high risk, low risk)**
+**  Model Name 	        Accuracy 	    Precision (high risk, low risk)	      Recall (high risk, low risk)**
 1. Random Oversampling:	0.63	        0.01, 1.00	                          0.60,0.66
 2. SMOTE oversampling:	0.62	        0.01, 1.00	                          0.60,0.64
 3. Undersampling:	0.62	              0.01, 1.00	                          0.59, 0.43
@@ -23,6 +23,4 @@ See below the accuracy scores and the precision and recall scores of all six mac
 
 ### Summary:
 
-There is a summary of the results (2 pt)
-
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+Would recommend collecting more data to improve performance of models, For now i would recommend the Easy Ensemble model. Even though it has low precision and is therefore likely to have high false positives. The recall is high (0.92) makinng it less likely than any other prediction model to miss a high risk loan. 
